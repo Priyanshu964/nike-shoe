@@ -140,7 +140,7 @@ a:hover::after{
 
 .explore {
     margin: 30px 0;
-    display:gr
+    display:grid;
     position: relative; 
     display: flex;
     align-items: center; 
